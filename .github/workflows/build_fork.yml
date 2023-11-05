@@ -14,6 +14,8 @@ on:
       - 'trying.tmp*'
       - 'staging*.tmp'
       - 'nolints'
+  merge_group:
+    branches: [ main ]
 
 name: continuous integration (mathlib forks)
 
