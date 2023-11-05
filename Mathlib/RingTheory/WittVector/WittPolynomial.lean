@@ -42,6 +42,8 @@ form a basis for `MvPolynomial ℕ R`, equivalent to the standard basis.
   `bind₁ (xInTermsOfW p R) (W_ R n) = X n`
 * `bind₁_xInTermsOfW_wittPolynomial`: the converse of the above statement
 
+blahblahblah
+
 ## Notation
 
 In this file we use the following notation
